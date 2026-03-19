@@ -23,7 +23,7 @@ Este repositório contém diversos projetos em Ciência de Dados e Análise de D
 - **ETL (Extract, Transform, Load):** Processos de extração, transformação e carregamento de dados.
 
 ## **Contato**
-- **Nome:** Seu Nome
+- **Nome:** Luiz Felipe Galvão Rangel
 - **Email:** luizfelipegr8823@gmail.com
 - **LinkedIn:** www.linkedin.com/in/luiz-felipe-galvão-rangel
 
